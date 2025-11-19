@@ -42,7 +42,9 @@ python src/main.py
 
 ## Sample Output
 - Expected Output = [0, 1, 1, 0]
-<img width="382" height="43" alt="image" src="https://github.com/user-attachments/assets/888e6dee-9d7f-4c36-8a95-16fcd0c769c8" />
+- <img width="382" height="43" alt="image" src="https://github.com/user-attachments/assets/888e6dee-9d7f-4c36-8a95-16fcd0c769c8" />
+
 
 python src/main.py
 ```
+
